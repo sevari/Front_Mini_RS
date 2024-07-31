@@ -1,0 +1,5 @@
+esclave
+ubuntu
+ubuntu2
+ubuntu1
+ubuntu*
